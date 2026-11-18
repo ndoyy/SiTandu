@@ -1,4 +1,4 @@
-@extends('layouts.templatemahasiswa')
+@extends('layouts.templateMahasiswa')
 @section('title', 'Janji Temu - SITandu')
 @section('content')
     <!-- Main Content -->
@@ -160,7 +160,7 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/user.png') }}" alt="ikonUser" class="w-4 h-4">
                                 <span class="text-[#4A5565] text-[14px]">Andi Wijaya</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[14px]">20210001</span>
                             </div>
                             <div class="flex items-center gap-2">
@@ -170,9 +170,9 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/clock.png') }}" alt="ikonJam" class="w-[10px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">Rabu, 30 Oktober 2024</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[12px]">14:00 WIB</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <img src="{{ asset('images/dokumen.png') }}" alt="ikonPdf" class="w-[8px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">PDF</span>
                             </div>
@@ -226,7 +226,7 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/user.png') }}" alt="ikonUser" class="w-4 h-4">
                                 <span class="text-[#4A5565] text-[14px]">Andi Wijaya</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[14px]">20210001</span>
                             </div>
                             <div class="flex items-center gap-2">
@@ -236,9 +236,9 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/clock.png') }}" alt="ikonJam" class="w-[10px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">Rabu, 30 Oktober 2024</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[12px]">14:00 WIB</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <img src="{{ asset('images/dokumen.png') }}" alt="ikonPdf" class="w-[8px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">PDF</span>
                             </div>
@@ -290,7 +290,7 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/user.png') }}" alt="ikonUser" class="w-4 h-4">
                                 <span class="text-[#4A5565] text-[14px]">Andi Wijaya</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[14px]">20210001</span>
                             </div>
                             <div class="flex items-center gap-2">
@@ -301,9 +301,9 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/clock.png') }}" alt="ikonJam" class="w-[10px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">Rabu, 30 Oktober 2024</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[12px]">14:00 WIB</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <img src="{{ asset('images/dokumen.png') }}" alt="ikonPdf" class="w-[8px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">PDF</span>
                             </div>
@@ -349,7 +349,7 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/user.png') }}" alt="ikonUser" class="w-4 h-4">
                                 <span class="text-[#4A5565] text-[14px]">Andi Wijaya</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[14px]">20210001</span>
                             </div>
                             <div class="flex items-center gap-2">
@@ -360,9 +360,9 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/clock.png') }}" alt="ikonJam" class="w-[10px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">Rabu, 30 Oktober 2024</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[12px]">14:00 WIB</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <img src="{{ asset('images/dokumen.png') }}" alt="ikonPdf" class="w-[8px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">PDF</span>
                             </div>
@@ -407,7 +407,7 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/user.png') }}" alt="ikonUser" class="w-4 h-4">
                                 <span class="text-[#4A5565] text-[14px]">Andi Wijaya</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[14px]">20210001</span>
                             </div>
                             <div class="flex items-center gap-2">
@@ -418,9 +418,9 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/clock.png') }}" alt="ikonJam" class="w-[10px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">Rabu, 30 Oktober 2024</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[12px]">14:00 WIB</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <img src="{{ asset('images/dokumen.png') }}" alt="ikonPdf" class="w-[8px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">PDF</span>
                             </div>
@@ -465,7 +465,7 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/user.png') }}" alt="ikonUser" class="w-4 h-4">
                                 <span class="text-[#4A5565] text-[14px]">Andi Wijaya</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[14px]">20210001</span>
                             </div>
                             <div class="flex items-center gap-2">
@@ -476,9 +476,9 @@
                             <div class="flex flex-wrap items-center gap-2">
                                 <img src="{{ asset('images/clock.png') }}" alt="ikonJam" class="w-[10px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">Rabu, 30 Oktober 2024</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <span class="text-[#4A5565] text-[12px]">14:00 WIB</span>
-                                <img src="{{ asset('images/•.png') }}" alt="ikonDot" class="hidden sm:block">
+                                <img src="{{ asset('images/dot.png') }}" alt="ikonDot" class="hidden sm:block">
                                 <img src="{{ asset('images/dokumen.png') }}" alt="ikonPdf" class="w-[8px] h-[10px]">
                                 <span class="text-[#4A5565] text-[12px]">PDF</span>
                             </div>
